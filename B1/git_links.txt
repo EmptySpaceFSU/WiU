@@ -1,4 +1,0 @@
-https://github.com/EmptySpaceFSU/DWS1/tree/gh-pages/Ayers-Christopher-final/
-
-http://emptyspacefsu.github.io/DWS1/Ayers-Christopher-final/final.html
-http://emptyspacefsu.github.io/DWS1/Ayers-Christopher-final/css/styles.css
